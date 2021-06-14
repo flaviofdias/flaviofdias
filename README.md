@@ -1,3 +1,7 @@
+
+
+
+
 🔭 I'm currently working on Infrastructure Analyst at Persis Internet
 
 📑 Some of my projects are available at https://github.com/flaviofdias
@@ -11,7 +15,7 @@
 📫 How to reach me flaviodias.info@gmail.com
 
 <br />
-<br />
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=flaviofdias&show_icons)](https://github.com/flaviofdias/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=flaviofdias&show_icons=true&theme=dracula)](https://github.com/flaviofdias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviofdias&layout=compact)](https://github.com/flaviofdias/github-readme-stats)
