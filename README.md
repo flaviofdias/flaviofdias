@@ -1,15 +1,15 @@
-### Hi there 👋
+🔭 I'm currently working on Infrastructure Analyst at Persis Internet
+
+📑 Some of my projects are available at https://github.com/flaviofdias
+
+🚀 I am a student on GoStack Bootcamp and Ignite from Rocketseat.
+
+🌱 I’m currently learning Node.js, React, React-Native, Typescript and much more.
+
+💬 Ask me about AutoCAD, Linux, Deploy, Docker, Docker-compose, Keycloak, Network, and BBQ 😋
+
+📫 How to reach me flaviodias.info@gmail.com
 
 
-**flaviofdias/flaviofdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+react css3 docker html5 javascript typescript mysql php postgresql nodejs python linux centos centos Fedora Ubuntu
