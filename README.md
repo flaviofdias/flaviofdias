@@ -2,7 +2,7 @@
 
 
 
-🔭 Currently I work as IT infrastructure coordinator at Knewin Intelligence in Information Recovery
+🔭 
 
 📑 Some of my projects are available at https://github.com/flaviofdias
 
